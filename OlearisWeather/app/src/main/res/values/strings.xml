@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">OlearisWeather</string>
+    <string name="map_activity_name">Map</string>
+    <string name="weather_activity_name">Weather</string>
+
+    <string name="button_add_place">Add place</string>
+    <string name="weather_place">Place:</string>
+    <string name="button_check_weather">Check weather</string>
+    <string name="button_ok">Ok</string>
+    <string name="button_chancel">Cancel</string>
+    <string name="title_activity_map">Map</string>
+    <string name="permission_needed">Permission needed</string>
+    <string name="permission_needed_because">This permission is needed to get your current location</string>
+    <string name="permission_granted">Permission granted</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="marker_start">Start</string>
+    <string name="marker_selected">Selected</string>
+    <string name="location_is_exist">This location is already exist</string>
+    <string name="api_key">YOUR_KEY</string>
+    <string name="request_failure">Request was failure</string>
+</resources>
